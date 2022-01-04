@@ -1,2 +1,2 @@
 # Machine-learning
-In this repository i'm trying to implement state of the art machine learning algorithms form scratch
+### In this repository I'm trying to implement state of the art machine learning algorithms from scratch.
